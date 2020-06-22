@@ -5,7 +5,7 @@ The prediction of time series whether economic or market based is typically a ve
 
 This Python example is a simple model considering GBPUSD and GBPEUR daily spot rate time series over the last 10 years and predicting the path over the next 60 days.  By looking at the percentage changes in the time series over the different intervals, we can then consider percentiles to infer the probabilities of the future path based on the historical data and then construct the fan chart.
 
-From looking at the GBPUSD case below, we can therefore consider that over the next 60 days, we are 99% confident that the pound will not depreciate any lower than 1.11, and 75% of the time we would expect this to remain higher than 1.15.  
+From looking at the GBPUSD case below, we can therefore consider that over the next 60 days, we are 99% confident that the pound will not depreciate any lower than 1.11, and 75% of the time we would expect this to remain higher than 1.17.  
 
 Underlying data source, https://www.bankofengland.co.uk/
 
