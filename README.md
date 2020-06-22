@@ -9,6 +9,6 @@ From looking at the GBPUSD case below, we can therefore consider that over the n
 
 Underlying data source, https://www.bankofengland.co.uk/
 
-![Figure_2.png]
+![](Figure_2.png)
 
-![Figure_1.png]
+![](Figure_1.png)
